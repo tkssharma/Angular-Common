@@ -2,16 +2,16 @@
 # Angular JS Common Features
 
 Angular JS
-
+Code example for some importent concepts of Angular JS
 ================
-Angular interceptor 
-Angular lazy load 
-Angular Style Guide
-Angular promises 
-Angular $resources 
-Angular UI router $stateparam 
-$window html5 localstorage 
-securing REST API at client side angular 
+- Angular interceptor 
+- Angular lazy load 
+- Angular Style Guide
+- Angular promises 
+- Angular $resources 
+- Angular UI router $stateparam 
+- $window html5 localstorage 
+- securing REST API at client side angular 
 
 
 Angular JS 
